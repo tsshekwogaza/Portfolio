@@ -7,7 +7,8 @@
 --title-color: hsl(207, 4%, 16%);
 --text-color: hsl(207, 4%, 28%);
 --text-color-light: hsl(207, 4%, 56%);
---body-color: hsl(207, 4%, 99%);
+--body-color: red;
+    /* hsl(207, 4%, 99%); */
 --container-color: hsl(207, 4%, 95%);
 
   /* Blue: 207 - Purple: 250 - Pink: 356 - Teal: 174 */
